@@ -1,0 +1,20 @@
+{
+  "name": "tratocompiler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.1.0",
+    "axios": "^0.19.2",
+    "bignumber.js": "^9.0.0",
+    "bip39": "^3.0.2",
+    "eth-hd-wallet": "^0.5.1",
+    "solc": "^0.6.11",
+    "web3": "^1.2.9"
+  }
+}
