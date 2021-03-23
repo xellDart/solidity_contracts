@@ -1,5 +1,5 @@
-# Trato Blockchain
-> Trato tools to integrate Blockchain ETH layer.
+# Distbit Blockchain
+> tools to integrate Blockchain ETH layer.
 
 ## Installation
 
