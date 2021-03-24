@@ -350,7 +350,7 @@ Every contract has function typeContract() for get contract type. (**result in b
 
 ## Meta
 
-Miguel Angel – [@xellDart](https://github.com/xellDart) – mundorap2010@gmail.com
+Miguel Angel – [@xellDart](https://github.com/xellDart) – miguel@distbit.io
 
 ## Contributing
 
